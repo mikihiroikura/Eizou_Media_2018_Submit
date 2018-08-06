@@ -1,0 +1,15 @@
+#cocoƒtƒHƒ‹ƒ_‚Í‚¢‚ç‚È‚¢
+coco/
+
+#cocoapiŽü‚è‚Í‚¢‚ç‚È‚¢
+build/
+pycocotools/
+pycocotools.egg-info/
+Makefile
+pycocoDemo.ipynb
+pycocoEvalDemo.ipynb
+cocoapi/
+
+*.npz
+*.caffemodel
+__pycache__/
